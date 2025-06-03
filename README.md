@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a matrimonial app 
 - 🌱 I’m currently learning css 
 - 📫 How to reach me: ... on insta @lovingfall67
